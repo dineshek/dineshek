@@ -53,6 +53,13 @@
             <version>4.3.4</version>
         </dependency>
         <dependency>
+            <groupId>Ab</groupId>
+            <artifactId>com.google</artifactId>
+            <version>0.0.4.3</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/src/main/resources/lib/Ab.jar</systemPath>
+        </dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-batch</artifactId>
         </dependency>

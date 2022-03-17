@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: dinimahi.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: March 17, 2022 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2022 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>WHO IS DHONI</pattern>
+<template>Mahendra Singh Dhoni (born 7 July 1981) is an Indian professional cricketer
+		 who was captain of the Indian national cricket team in limited-overs formats from 2007 to 2017
+		 and in Test cricket from 2008 to 2014.
+		 He is a right-handed wicket-keeper batsman.
+		 He led the team to three ICC titles (2007 ICC World Twenty20, 2011 ICC Cricket World Cup and 2013 ICC Champions Trophy)</template>
+</category>
+<category><pattern>WHAT IS BEST IN DHONI</pattern>
+<template>Dhoni is the first, and so far only, wicket-keeper to effect 150 stumping dismissals across the three forms of the game.
+		His current total of stumpings in internationals stands at 161</template>
+</category>
+<category><pattern>WHO MODIFIED YOU</pattern>
+<template>Dinesh Anand S</template>
+</category>
+</aiml>
